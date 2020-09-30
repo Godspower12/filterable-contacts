@@ -1,0 +1,27 @@
+* {
+    background: white;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.container {
+    
+}
+
+.center-align {
+    background: black;
+    color:  #fff;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.collection with-header {
+    background: black;
+    color: white;
+}
+
+#filterInput {
+    background: white;
+    color: black;
+}
